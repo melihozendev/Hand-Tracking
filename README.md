@@ -48,14 +48,23 @@ pip install opencv-python numpy
 python Hand_Tracking.py
 ```
 
-✋ Gesture Controls
+---
+
+## 📹 Demo
+
+[🎥 See It in Action](https://github.com/user-attachments/assets/fca44335-71dc-44d0-b2b8-ca925decf7e0)
+
+---
+
+## ✋ Gesture Controls
 
 - 🖐️ Open Hand + Move Up/Down → Navigate menu options
 
 - ✊ Closed Hand + Not Moving → Lock in and select current option
 
+---
 
-🎯 Features
+## 🎯 Features
 - Real-time webcam-based motion detection
 
 - Direction and hand state feedback overlay
